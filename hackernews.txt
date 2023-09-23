@@ -1,0 +1,3 @@
+! Remove YC-backed job posts
+news.ycombinator.com##table tr tr:has(.subtext):not(:has(.subtext>.subline)):xpath(./preceding-sibling::tr[1])
+news.ycombinator.com##table tr tr:has(.subtext):not(:has(.subtext>.subline))
