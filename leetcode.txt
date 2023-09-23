@@ -1,0 +1,5 @@
+! Filter out junk from sidebar
+leetcode.com##div.side-bar > div:nth-of-type(1) > span
+
+! Remove premium button
+leetcode.com##span:has-text(Premium):upward(div)
