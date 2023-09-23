@@ -1,0 +1,6 @@
+! Remove trending panel
+twitter.com##*[aria-label="Trending"]
+
+! Filter all junk out of sidemenu
+twitter.com##*[aria-label="Communities"]
+twitter.com##*[aria-label="Verified"]
