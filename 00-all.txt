@@ -3,3 +3,4 @@
 ! Homepage: https://github.com/strlght/ublock-declutter
 
 !#include github.txt
+!#include reddit.txt
