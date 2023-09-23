@@ -1,0 +1,8 @@
+! Filter top banner
+meduza.io##.Layout-module-banner
+
+! Filter donations
+meduza.io##.SaveMeduza-module-button
+
+! Remove signal promotion
+meduza.io##.Section-module-block:has(.SignalBlock-module-root)
