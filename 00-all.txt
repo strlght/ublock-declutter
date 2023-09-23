@@ -1,0 +1,5 @@
+! Title: strlght uBlock declutter
+! Description: uBlock filter to remove annoying junk.
+! Homepage: https://github.com/strlght/ublock-declutter
+
+!#include github.txt

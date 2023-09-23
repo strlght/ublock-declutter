@@ -1,0 +1,2 @@
+! Remove copilot junk
+github.com##*>span:has-text(Code 55% faster with GitHub Copilot)
