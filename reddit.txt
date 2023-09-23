@@ -1,2 +1,3 @@
 ! Remove premium banner
+www.reddit.com##.side>.spacer:has(.premium-banner-outer)
 old.reddit.com##.side>.spacer:has(.premium-banner-outer)
