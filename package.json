@@ -1,0 +1,15 @@
+{
+  "name": "ublock-declutter",
+  "version": "1.0.0",
+  "description": "Opinionated uBlock filter targeting annoyances.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "aglint"
+  },
+  "keywords": [],
+  "author": "strlght",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@adguard/aglint": "^2.0.4"
+  }
+}
