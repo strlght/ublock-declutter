@@ -1,2 +1,2 @@
 ! Filter out huge private customers header
-dhl.de##div.main.contentpage > div:not(:has(.application))
+dhl.de##:matches-path(/privatkunden/kundenkonto/.*\.html$/) div.main.contentpage > div:not(:has(.application))
