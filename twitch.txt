@@ -1,0 +1,2 @@
+! Remove top bits/gifties panel
+twitch.tv##.chat-room__content > div:nth-of-type(1)
