@@ -1,0 +1,8 @@
+! Filter top banner
+www.aliexpress.com##.top-banner-container
+
+! Filter sticky side banner
+www.aliexpress.com##.drogue-poplayer-modal
+
+! Filter download app banner
+www.aliexpress.com##._header_qrCode_
