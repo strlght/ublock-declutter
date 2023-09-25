@@ -1,5 +1,5 @@
 ! Remove copilot junk
-github.com##*>span:has-text(Code 55% faster with GitHub Copilot)
+github.com##*[data-testid="copilot-popover-button"]:upward(div)
 
 ! Remove promo banners in sidebar
 github.com##*[aria-label="Explore"]>*>div.js-notice
