@@ -6,3 +6,6 @@ www.aliexpress.com##.drogue-poplayer-modal
 
 ! Filter download app banner
 www.aliexpress.com##._header_qrCode_
+
+! Share side buttons
+www.aliexpress.com###root *[data-spm="share"]:upward(4)
