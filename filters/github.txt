@@ -2,4 +2,5 @@
 github.com##*[data-testid="copilot-popover-button"]:upward(div)
 
 ! Remove promo banners in sidebar
+github.com##*[aria-label="Explore"]>div.js-notice
 github.com##*[aria-label="Explore"]>*>div.js-notice
