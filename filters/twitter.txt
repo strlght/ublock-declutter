@@ -5,3 +5,6 @@ twitter.com##*[aria-label="Trending"]
 twitter.com##*[aria-label="Communities"]
 twitter.com##*[aria-label="Verified"]
 twitter.com##*[aria-label="Premium"]
+
+! Make top bar non-sticky
+twitter.com##[aria-label="Home timeline"] > div:nth-of-type(1):style(position: static !important)
