@@ -6,3 +6,6 @@ meduza.io##.SaveMeduza-module-button
 
 ! Remove signal promotion
 meduza.io##.Section-module-block:has(.SignalBlock-module-root)
+
+! Make sticky top bar non-sticky
+meduza.io##.TopBar-module-stuck:style(position: relative !important)
