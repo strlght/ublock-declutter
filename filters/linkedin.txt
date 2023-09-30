@@ -1,0 +1,3 @@
+! Remove premium banner in top bar
+! It also makes top bar look way better, due to height adjustment
+www.linkedin.com##.premium-upsell-link
