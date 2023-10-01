@@ -1,2 +1,5 @@
 ! Remove top bits/gifties panel
 twitch.tv##.chat-room__content > div:nth-of-type(1)
+
+! Remove scrollbar that changes it visibility frequently in chat
+twitch.tv##.chat-room .simplebar-track
