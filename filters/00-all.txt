@@ -16,3 +16,4 @@
 !#include twitch.txt
 !#include aliexpress.txt
 !#include linkedin.txt
+!#include jira.txt
