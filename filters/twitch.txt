@@ -6,3 +6,6 @@ twitch.tv##.chat-room .simplebar-track
 
 ! Filter turbo banner from top bar
 twitch.tv##button:has-text("Get Ad-Free"):upward(3)
+
+! Remove react button
+twitch.tv##button:has-text("React")
