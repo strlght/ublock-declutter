@@ -1,15 +1,15 @@
 ! Filter top banner
-www.aliexpress.com##.top-banner-container
+aliexpress.com##.top-banner-container
 
 ! Filter sticky side banner
-www.aliexpress.com##.drogue-poplayer-modal
+aliexpress.com##.drogue-poplayer-modal
 
 ! Filter download app banner
-www.aliexpress.com##._header_qrCode_
-www.aliexpress.com##*[alt="download APP"]
+aliexpress.com##._header_qrCode_
+aliexpress.com##*[alt="download APP"]
 
 ! Share side buttons
-www.aliexpress.com###root *[data-spm="share"]:upward(4)
+aliexpress.com###root *[data-spm="share"]:upward(4)
 
 ! Popular items under search
-www.aliexpress.com##.hot-words
+aliexpress.com##.hot-words
