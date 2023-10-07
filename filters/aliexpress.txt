@@ -13,6 +13,3 @@ www.aliexpress.com###root *[data-spm="share"]:upward(4)
 
 ! Popular items under search
 www.aliexpress.com##.hot-words
-
-! Top banner
-www.aliexpress.com##.top-banner-container
