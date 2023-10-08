@@ -1,0 +1,8 @@
+! Hide footer as there's no useful information there
+duckduckgo.com##.footer
+
+! Also hide share feedback button
+duckduckgo.com##.js-feedback-btn-wrap
+
+! Remove header promo button
+duckduckgo.com##.header--aside > div

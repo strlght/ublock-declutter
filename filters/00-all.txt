@@ -18,3 +18,4 @@
 !#include linkedin.txt
 !#include jira.txt
 !#include discord.txt
+!#include ddg.txt
