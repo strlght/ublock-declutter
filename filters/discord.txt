@@ -9,3 +9,6 @@ discord.com##[aria-label="Download Apps"]:upward(5)
 
 ! Remove explore servers button in server list
 discord.com##[aria-label="Explore Discoverable Servers"]:upward(5)
+
+! Hide paid reaction button
+discord.com##[aria-label="Add Super Reaction"]
