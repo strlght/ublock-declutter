@@ -1,0 +1,5 @@
+! Remove app promo button
+open.spotify.com##[href="/download"]
+
+! Remove footer
+open.spotify.com##.main-view-container__mh-footer-container
