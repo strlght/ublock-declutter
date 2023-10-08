@@ -1,6 +1,7 @@
-! Remove premium banner in top bar
+! Remove premium banner in top bar and side bar
 ! It also makes top bar look way better, due to height adjustment
 www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.premium-upsell-link--extra-long
 
 ! Remove For Business banner
 www.linkedin.com##.global-nav__primary-item:has([title="For Business"])
