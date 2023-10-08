@@ -1,0 +1,11 @@
+! Hide nitro url in private channels list
+discord.com##[aria-label="Private channels"] [href="/store"]
+
+! Hide gift button in message input field
+discord.com##form [aria-label="Send a gift"]
+
+! Remove download apps button in server list
+discord.com##[aria-label="Download Apps"]:upward(5)
+
+! Remove explore servers button in server list
+discord.com##[aria-label="Explore Discoverable Servers"]:upward(5)
