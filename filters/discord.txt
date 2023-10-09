@@ -12,3 +12,6 @@ discord.com##[aria-label="Explore Discoverable Servers"]:upward(5)
 
 ! Hide paid reaction button
 discord.com##[aria-label="Add Super Reaction"]
+
+! Filter nitro goal banner
+discord.com##[aria-label="Channels"] > div:has-text("Goal: LVL")
