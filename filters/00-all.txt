@@ -20,3 +20,4 @@
 !#include discord.txt
 !#include ddg.txt
 !#include spotify.txt
+!#include steam.txt

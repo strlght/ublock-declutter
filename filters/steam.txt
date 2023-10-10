@@ -1,0 +1,5 @@
+! Hide top promo
+store.steampowered.com##.top_promo
+
+! Remove hardware banner
+store.steampowered.com##.home_hardware_banner
