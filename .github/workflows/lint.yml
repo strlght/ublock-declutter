@@ -2,7 +2,20 @@ name: Run AGLint
 on:
   push:
     branches:
-      - '**'
+      - main
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
 permissions:
     actions: read
     contents: read
