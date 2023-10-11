@@ -6,3 +6,6 @@ web.telegram.org##:matches-path(/a/.*$/) .SearchInput [aria-label="Open Stories"
 
 ! Hide stories circles around userpics
 web.telegram.org##:matches-path(/a/.*$/) .story-circle
+
+! Hide stories panel from message list
+web.telegram.org##:matches-path(/a/.*$/) #StoryRibbon
