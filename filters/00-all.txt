@@ -21,3 +21,4 @@
 !#include ddg.txt
 !#include spotify.txt
 !#include steam.txt
+!#include telegram.txt

@@ -1,0 +1,2 @@
+! Remove all sponsored messages from Web A variant
+web.telegram.org##:matches-path(/a/.*$/) .SponsoredMessage
