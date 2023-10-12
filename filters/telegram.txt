@@ -9,3 +9,6 @@ web.telegram.org##:matches-path(/a/.*$/) .story-circle
 
 ! Hide stories panel from message list
 web.telegram.org##:matches-path(/a/.*$/) #StoryRibbon
+
+! Remove stories panel from archive
+web.telegram.org##:matches-path(/a/.*$/) .story-toggler-wrapper
