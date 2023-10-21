@@ -22,3 +22,4 @@
 !#include spotify.txt
 !#include steam.txt
 !#include telegram.txt
+!#include instagram.txt
