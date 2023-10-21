@@ -1,6 +1,6 @@
 name: Run AGLint
 env:
-  NODE_VERSION: 20
+  NODE_VERSION: 21
 on:
   push:
     branches:
