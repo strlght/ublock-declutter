@@ -1,2 +1,2 @@
 ! Hide ripoff twitter promotion
-instagram.com##a[href="https://www.threads.net/"]
+instagram.com##a[href^="https://www.threads.net"]
