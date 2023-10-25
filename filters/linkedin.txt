@@ -11,3 +11,6 @@ www.linkedin.com###feed-news-module
 
 ! Hide huge premium banner in feed
 www.linkedin.com##span:has-text(Get Premium now):upward(.launchpad-v2)
+
+! Hide promoted posts from the feed
+www.linkedin.com##span[aria-hidden="true"]:has-text(Promoted):upward(.ember-view)
