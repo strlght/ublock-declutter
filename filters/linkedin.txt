@@ -5,3 +5,6 @@ www.linkedin.com##.premium-upsell-link--extra-long
 
 ! Remove For Business banner
 www.linkedin.com##.global-nav__primary-item:has([title="For Business"])
+
+! Remove promoted news junk
+www.linkedin.com###feed-news-module
