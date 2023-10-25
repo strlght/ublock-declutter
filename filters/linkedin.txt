@@ -8,3 +8,6 @@ www.linkedin.com##.global-nav__primary-item:has([title="For Business"])
 
 ! Remove promoted news junk
 www.linkedin.com###feed-news-module
+
+! Hide huge premium banner in feed
+www.linkedin.com##span:has-text(Get Premium now):upward(.launchpad-v2)
