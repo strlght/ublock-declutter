@@ -4,7 +4,7 @@ Opinionated uBlock filter targeting annoyances.
 
 ## Installation
 
-[![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=import%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fstrlght%2Fublock%2Ddeclutter%2Fmain%2Ffilters%2F00%2Dall%2Etxt&title=strlght%20uBlock%20Declutter)
+[![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=import%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fstrlght%2Egithub%2Eio%2Fublock%2Ddeclutter%2Fall%2Etxt&title=strlght%20uBlock%20Declutter)
 
 <details>
     <summary>Import manually</summary>
