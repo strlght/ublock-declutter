@@ -1,0 +1,6 @@
+! Title: strlght uBlock declutter
+! Description: |
+!   Opinionated uBlock filter to remove annoying junk from
+!   quite a few sites.
+! License: https://github.com/strlght/ublock-declutter/blob/main/LICENSE
+! Homepage: https://github.com/strlght/ublock-declutter
