@@ -1,4 +1,6 @@
 ! Title: strlght uBlock declutter
+! Expires: 2 days
+! Last modified:
 ! Description: |
 !   Opinionated uBlock filter to remove annoying junk from
 !   quite a few sites.
