@@ -14,7 +14,7 @@ Opinionated uBlock filter targeting annoyances.
 3. Scroll down to `Import...`
 4. Copy-paste following URL, and then click `Apply changes`:
 ```
-https://raw.githubusercontent.com/strlght/ublock-declutter/main/filters/00-all.txt
+https://strlght.github.io/ublock-declutter/all.txt
 ```
 
 Alternatively it's possbile to install filters for specific websites,
