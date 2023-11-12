@@ -4,3 +4,6 @@ github.com##*[data-testid="copilot-popover-button"]:upward(div)
 ! Remove promo banners in sidebar
 github.com##*[aria-label="Explore"]>div.js-notice
 github.com##*[aria-label="Explore"]>*>div.js-notice
+
+! Hide contirubtior banner
+github.com##*[data-octo-click="first_time_contributor_banner"]:upward(div):upward(div)
