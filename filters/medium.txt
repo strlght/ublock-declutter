@@ -1,0 +1,2 @@
+! Hide sign up bottom banner, heuristic based on this banner having explicitly defined attr `style="top: <...>"`
+medium.com##div:matches-attr(style="/top:/")
