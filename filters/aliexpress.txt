@@ -13,3 +13,6 @@ aliexpress.com###root *[data-spm="share"]:upward(4)
 
 ! Popular items under search
 aliexpress.com##.hot-words
+
+! Hide modal banner
+aliexpress.com##.image-poplayer-modal
