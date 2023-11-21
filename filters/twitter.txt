@@ -11,3 +11,6 @@ twitter.com##[aria-label="Home timeline"] > div:nth-of-type(1):style(position: s
 
 ! Hide bottom messages panel
 twitter.com##[data-testid="DMDrawer"]
+
+! Filter ads
+twitter.com##span:has-text(/Ad/):upward(article)
