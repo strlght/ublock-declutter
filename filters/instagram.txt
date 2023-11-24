@@ -1,2 +1,5 @@
 ! Hide ripoff twitter promotion
 instagram.com##a[href^="https://www.threads.net"]
+
+! Hide ripoff twitter from feed
+instagram.com##article:upward(1) > div
