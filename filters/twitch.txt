@@ -12,3 +12,6 @@ twitch.tv##button:has-text("React")
 
 ! Hide bits button in top navigation bar
 twitch.tv##[data-a-target="top-nav-get-bits-button"]:upward(5)
+
+! Filter disclosures
+twitch.tv###channel-player-disclosures
