@@ -8,6 +8,7 @@ on:
       - "**/*.txt"
       - "package.json"
       - "package-lock.json"
+      - "Makefile"
   workflow_dispatch:
 permissions:
   contents: read
