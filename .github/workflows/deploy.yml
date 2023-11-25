@@ -25,7 +25,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build global filters list
-        run: ./generate_all.sh
+        run: make
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
