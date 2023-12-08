@@ -14,3 +14,6 @@ twitter.com##[data-testid="DMDrawer"]
 
 ! Filter ads
 twitter.com##span:has-text(/^Ad$/):upward(article)
+
+! Filter more ads in timeline
+twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt"])
