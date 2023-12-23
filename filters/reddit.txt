@@ -1,3 +1,5 @@
 ! Remove premium banner
-www.reddit.com##.side>.spacer:has(.premium-banner-outer)
-old.reddit.com##.side>.spacer:has(.premium-banner-outer)
+reddit.com##.side>.spacer:has(.premium-banner-outer)
+
+! Remove new reddit button
+reddit.com###redesign-beta-optin-btn
