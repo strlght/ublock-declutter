@@ -14,4 +14,4 @@ meduza.io##.TopBar-module-stuck:style(position: relative !important)
 meduza.io##.Footer-module-form
 
 ! Remove books promotion
-meduza.io##.BookLandingBlock-module-root:upward(section)
+meduza.io##.BookLandingBlock-module-root:upward(div)
