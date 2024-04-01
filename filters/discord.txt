@@ -15,3 +15,6 @@ discord.com##[aria-label="Add Super Reaction"]
 
 ! Filter nitro goal banner
 discord.com##[aria-label="Channels"] > div[aria-label]
+
+! Shop link
+discord.com##[href="/shop"]
