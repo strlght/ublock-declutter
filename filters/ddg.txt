@@ -6,3 +6,6 @@ duckduckgo.com##.js-feedback-btn-wrap
 
 ! Remove header promo button
 duckduckgo.com##.header--aside > div
+
+! Hide privacy promo junk
+duckduckgo.com##.privacy-reminder
