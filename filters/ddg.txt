@@ -9,3 +9,6 @@ duckduckgo.com##.header--aside > div
 
 ! Hide privacy promo junk
 duckduckgo.com##.privacy-reminder
+
+! Remove chat link from top bar
+duckduckgo.com##.js-zci-link--chat
