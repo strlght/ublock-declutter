@@ -1,0 +1,3 @@
+! Disable scroll popup
+! Note: this breaks infinite scroll on authors page, can't be fixed right now
+substack.com##+js(aeld, scroll)
