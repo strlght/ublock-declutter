@@ -1,2 +1,5 @@
 ! Fix broken load times in Firefox
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
+! Remove shorts recommendations in feed
+www.youtube.com##:matches-path(/feed/subscriptions/) ytd-rich-section-renderer:has(span:has-text("Shorts"))
