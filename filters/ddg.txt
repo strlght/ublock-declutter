@@ -12,3 +12,6 @@ duckduckgo.com##.privacy-reminder
 
 ! Remove chat link from top bar
 duckduckgo.com##.js-zci-link--chat
+
+! Disable DuckAssit
+duckduckgo.com##[data-react-module-id="wikinlp"]
