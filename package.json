@@ -10,6 +10,6 @@
   "author": "strlght",
   "license": "Unlicense",
   "devDependencies": {
-    "@adguard/aglint": "^2.0.8"
+    "@adguard/aglint": "^2.0.9"
   }
 }
