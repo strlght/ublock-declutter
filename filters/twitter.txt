@@ -1,19 +1,19 @@
 ! Remove trending panel
-twitter.com##*[aria-label="Trending"]
+x.com##*[aria-label="Trending"]
 
 ! Filter all junk out of sidemenu
-twitter.com##*[aria-label="Communities"]
-twitter.com##*[aria-label="Verified"]
-twitter.com##*[aria-label="Premium"]
+x.com##*[aria-label="Communities"]
+x.com##*[aria-label="Verified"]
+x.com##*[aria-label="Premium"]
 
 ! Make top bar non-sticky
-twitter.com##[aria-label="Home timeline"] > div:nth-of-type(1):style(position: static !important)
+x.com##[aria-label="Home timeline"] > div:nth-of-type(1):style(position: static !important)
 
 ! Hide bottom messages panel
-twitter.com##[data-testid="DMDrawer"]
+x.com##[data-testid="DMDrawer"]
 
 ! Filter ads
-twitter.com##span:has-text(/^Ad$/):upward(article)
+x.com##span:has-text(/^Ad$/):upward(article)
 
 ! Filter more ads in timeline
-twitter.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt"])
+x.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt"])
