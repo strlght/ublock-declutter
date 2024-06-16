@@ -1,0 +1,2 @@
+! Hide promoted panels
+dev.to##.js-billboard-container
