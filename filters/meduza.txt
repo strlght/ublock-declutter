@@ -15,3 +15,6 @@ meduza.io##.Footer-module-form
 
 ! Remove books promotion
 meduza.io##.BookLandingBlock-module-root:upward(div)
+
+! Center article content
+meduza.io##.GeneralMaterial-module-container:style(width: auto !important)
