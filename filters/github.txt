@@ -10,3 +10,6 @@ github.com##*[data-octo-click="first_time_contributor_banner"]:upward(div):upwar
 
 ! Hide sponsorship banner from issues
 github.com##[data-show-dialog-id^="sponsors-issue-nudge"]:upward(div)
+
+! Hide list of sponsors on organization page
+github.com###sponsors-heading:upward(div)
