@@ -7,3 +7,6 @@ github.com##*[aria-label="Explore"]>*>div.js-notice
 
 ! Hide contirubtior banner
 github.com##*[data-octo-click="first_time_contributor_banner"]:upward(div):upward(div)
+
+! Hide sponsorship banner from issues
+github.com##[data-show-dialog-id^="sponsors-issue-nudge"]:upward(div)
