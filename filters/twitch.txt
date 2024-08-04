@@ -15,3 +15,7 @@ twitch.tv##[data-a-target="top-nav-get-bits-button"]:upward(5)
 
 ! Filter disclosures
 twitch.tv###channel-player-disclosures
+
+! Hide bits from chat panel: first icon, then text
+twitch.tv##[data-test-selector="bits-balance-string"]:xpath(./preceding-sibling::div[1])
+twitch.tv##[data-test-selector="bits-balance-string"]
