@@ -1,1 +1,2 @@
 wikipedia.org##[aria-label="fundraising banner"]
+wikipedia.org##[class*="fundraising"]
