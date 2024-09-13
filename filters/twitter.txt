@@ -20,3 +20,6 @@ x.com##[data-testid="cellInnerDiv"]:has([data-testid="inlinePrompt"])
 
 ! Remove more corporate non-sense from side menu
 x.com##[data-testid="vo-signup-tab"]
+
+! No more paid subscription buttons
+x.com##[data-testid$="-subscribe"]
