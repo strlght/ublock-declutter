@@ -19,3 +19,6 @@ twitch.tv###channel-player-disclosures
 ! Hide bits from chat panel: first icon, then text
 twitch.tv##[data-test-selector="bits-balance-string"]:xpath(./preceding-sibling::div[1])
 twitch.tv##[data-test-selector="bits-balance-string"]
+
+! Footer is used to upsell event tickets and such
+twitch.tv##footer
