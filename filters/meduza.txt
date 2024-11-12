@@ -3,6 +3,7 @@ meduza.io##.Layout-module-banner
 
 ! Filter donations
 meduza.io##.SaveMeduza-module-button
+meduza.io##.SupportPanel-module-root
 
 ! Remove signal promotion
 meduza.io##.Section-module-block:has(.SignalBlock-module-root)
