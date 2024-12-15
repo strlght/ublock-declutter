@@ -24,3 +24,6 @@ x.com##[data-testid="vo-signup-tab"]
 
 ! No more paid subscription buttons
 x.com##[data-testid$="-subscribe"]
+
+! Hide AI-button next to some tweets
+x.com##*[aria-label="Grok actions"]
