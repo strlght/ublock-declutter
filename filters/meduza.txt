@@ -19,3 +19,6 @@ meduza.io##.BookLandingBlock-module-root:upward(div)
 
 ! Center article content
 meduza.io##.GeneralMaterial-module-container:style(width: auto !important)
+
+! Remove popup banner that appears when you scroll the page
+meduza.io##.PopoverBanner-module-root
