@@ -27,3 +27,6 @@ x.com##[data-testid$="-subscribe"]
 
 ! Hide AI-button next to some tweets
 x.com##*[aria-label="Grok actions"]
+
+! Hide AI-promo under popular tweets
+x.com##nav:has([data-testid="ScrollSnap-SwipeableList"])
