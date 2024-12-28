@@ -29,4 +29,4 @@ x.com##[data-testid$="-subscribe"]
 x.com##*[aria-label="Grok actions"]
 
 ! Hide AI-promo under popular tweets
-x.com##nav:has([data-testid="ScrollSnap-SwipeableList"])
+x.com##article nav:has([data-testid="ScrollSnap-SwipeableList"])
