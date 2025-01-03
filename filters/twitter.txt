@@ -31,3 +31,6 @@ x.com##*[aria-label="Grok actions"]
 
 ! Hide AI-promo under popular tweets
 x.com##article nav:has([data-testid="ScrollSnap-SwipeableList"])
+
+! AI-button in posting form
+x.com##[data-testid="grokImgGen"]:upward(1)
