@@ -16,3 +16,6 @@ github.com###sponsors-heading:upward(div)
 
 ! Copilot entrypoint in news
 github.com##.copilotPreview__container
+
+! Copilot entrypoint next to search
+github.com##.AppHeader-CopilotChat
