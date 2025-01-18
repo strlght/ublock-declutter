@@ -37,3 +37,6 @@ x.com##[data-testid="grokImgGen"]:upward(1)
 
 ! AI-button in profile
 x.com##button[aria-label="Profile Summary"]
+
+! Overlay AI promo
+x.com##[data-testid="GrokDrawer"]
