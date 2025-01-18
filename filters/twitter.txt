@@ -34,3 +34,6 @@ x.com##article nav:has([data-testid="ScrollSnap-SwipeableList"])
 
 ! AI-button in posting form
 x.com##[data-testid="grokImgGen"]:upward(1)
+
+! AI-button in profile
+x.com##button[aria-label="Profile Summary"]
