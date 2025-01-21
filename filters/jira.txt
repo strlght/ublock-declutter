@@ -1,2 +1,5 @@
 ! Remove absolutely useless bottom banner in side menu
 atlassian.net##[aria-label="Learn more about team-managed and company-managed projects"]:upward(div):upward(1)
+
+! AI-suggested comments
+atlassian.net##[aria-label="Quick comments"]
