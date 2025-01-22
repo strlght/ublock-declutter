@@ -40,3 +40,6 @@ x.com##button[aria-label="Profile Summary"]
 
 ! Overlay AI promo
 x.com##[data-testid="GrokDrawer"]
+
+! AI embeds in tweets
+x.com##article a[href^="/i/grok"]:upward(2)
