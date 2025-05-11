@@ -15,3 +15,6 @@ duckduckgo.com##.js-zci-link--chat
 
 ! Disable DuckAssit
 duckduckgo.com##[data-react-module-id="wikinlp"]
+
+! Disable feedback button
+duckduckgo.com##[data-testid="feedback-prompt"]:upward(div)
