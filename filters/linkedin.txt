@@ -14,3 +14,6 @@ www.linkedin.com##span:has-text(Get Premium now):upward(.launchpad-v2)
 
 ! Hide promoted posts from the feed
 www.linkedin.com##span[aria-hidden="true"]:has-text(Promoted):upward(.ember-view)
+
+! Sidebar games promo
+www.linkedin.com##.scaffold-layout__aside div:has(.games-entrypoints-module__subheader)
