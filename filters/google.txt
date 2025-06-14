@@ -1,2 +1,5 @@
 ! Login promt
 accounts.google.com/gsi/$3p
+
+! Huge user survey in the bottom right corner
+maps.google.com###google-hats-survey
