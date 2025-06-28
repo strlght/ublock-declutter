@@ -3,3 +3,6 @@ substack.com##.subscription-widget-wrap
 
 ! Hide subscribe popup
 substack.com##+js(trusted-click-element, '[class^="_closeIcon"]')
+
+! No more cookie banners
+substack.com##div[class*="cookieBanner-"]
