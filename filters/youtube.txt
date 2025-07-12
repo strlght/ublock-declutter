@@ -6,3 +6,6 @@ www.youtube.com##:matches-path(/feed/subscriptions/) ytd-rich-section-renderer:h
 
 ! No more AI-summary
 www.youtube.com###expandable-metadata:has(video-summary-content-view-model)
+
+! Fix horizontal scrolling
+www.youtube.com##html:style(overflow: hidden; max-width: 100%;)
