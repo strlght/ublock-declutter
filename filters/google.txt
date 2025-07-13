@@ -2,4 +2,5 @@
 accounts.google.com/gsi/$3p
 
 ! Huge user survey in the bottom right corner
+www.google.com###google-hats-survey
 maps.google.com###google-hats-survey
