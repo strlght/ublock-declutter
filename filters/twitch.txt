@@ -25,3 +25,6 @@ twitch.tv##footer
 
 ! Remove banner in navigation menu
 twitch.tv##*[aria-label="Discover Luna"]:upward(2)
+
+! More upselling
+twitch.tv##[aria-controls="one-tap-store-id"]:upward(div)
