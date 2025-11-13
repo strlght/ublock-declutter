@@ -1,2 +1,3 @@
 wikipedia.org##[aria-label="fundraising banner"]
 wikipedia.org##[class*="fundraising"]
+wikipedia.org##+js(set-local-storage-item, fundraising.closeChoice2025, "MainBanner_close")
