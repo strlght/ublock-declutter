@@ -6,6 +6,7 @@ x.com##*[aria-label="Communities"]
 x.com##*[aria-label="Verified"]
 x.com##*[aria-label="Premium"]
 x.com##*[aria-label="Grok"]
+x.com##*[data-testid="premium-business-signup-tab"]
 
 ! Make top bar non-sticky
 x.com##[aria-label="Home timeline"] > div:nth-of-type(1):style(position: static !important)
